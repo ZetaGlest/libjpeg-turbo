@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\997256be6c6999b84ab7c14fd1c8075a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A35E3809-D633-3948-87BA-829E1CA3E44B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

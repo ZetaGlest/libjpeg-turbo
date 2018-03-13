@@ -1,0 +1,3 @@
+C:/Users/mathu/Downloads/zetaglest-source/mk/windows/dependencies/src/jpeg/simd/CMakeFiles/simd.dir
+C:/Users/mathu/Downloads/zetaglest-source/mk/windows/dependencies/src/jpeg/simd/CMakeFiles/ALL_BUILD.dir
+C:/Users/mathu/Downloads/zetaglest-source/mk/windows/dependencies/src/jpeg/simd/CMakeFiles/ZERO_CHECK.dir

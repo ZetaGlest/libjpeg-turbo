@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jfdctflt-sse-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jccolor-sse2-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jcgray-sse2-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jchuff-sse2-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jcsample-sse2-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jdcolor-sse2-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jdmerge-sse2-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jdsample-sse2-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jfdctfst-sse2-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jfdctint-sse2-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jidctflt-sse2-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jidctfst-sse2-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jidctint-sse2-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jidctred-sse2-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jquantf-sse2-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\9778a122a00f34107ac0e241868a5ab5\jquanti-sse2-64.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\6978223a56e9b26fcda0b75500d87be7\simd.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\CMakeFiles\simd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{42749523-F72B-392F-8913-58BCBD5756C5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

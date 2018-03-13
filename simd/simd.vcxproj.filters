@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jsimdcpu.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jfdctflt-3dn.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jidctflt-3dn.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jquant-3dn.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jccolor-mmx.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jcgray-mmx.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jcsample-mmx.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jdcolor-mmx.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jdmerge-mmx.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jdsample-mmx.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jfdctfst-mmx.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jfdctint-mmx.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jidctfst-mmx.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jidctint-mmx.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jidctred-mmx.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jquant-mmx.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jfdctflt-sse.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jidctflt-sse.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jquant-sse.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jccolor-sse2.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jcgray-sse2.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jchuff-sse2.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jcsample-sse2.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jdcolor-sse2.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jdmerge-sse2.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jdsample-sse2.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jfdctfst-sse2.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jfdctint-sse2.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jidctflt-sse2.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jidctfst-sse2.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jidctint-sse2.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jidctred-sse2.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jquantf-sse2.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\1d2ad69d96935f1e782da4bc7634e0c2\jquanti-sse2.obj.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\997256be6c6999b84ab7c14fd1c8075a\simd.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\mathu\Downloads\zetaglest-source\mk\windows\dependencies\src\jpeg\simd\CMakeFiles\simd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A35E3809-D633-3948-87BA-829E1CA3E44B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
