@@ -24,7 +24,9 @@
 /* #define void char */
 /* #define const */
 #undef __CHAR_UNSIGNED__
+#ifndef HAVE_STDDEF_H
 #define HAVE_STDDEF_H
+#endif
 #define HAVE_STDLIB_H
 #undef NEED_BSD_STRINGS
 #undef NEED_SYS_TYPES_H
