@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jcapimin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jcapistd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jccoefct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jccolor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jcdctmgr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jchuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jcinit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jcmainct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jcmarker.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jcmaster.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jcomapi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jcparam.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jcphuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jcprepct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jcsample.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jctrans.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdapimin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdapistd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdatadst.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdatasrc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdcoefct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdcolor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jddctmgr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdhuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdinput.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdmainct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdmarker.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdmaster.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdmerge.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdphuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdpostct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdsample.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdtrans.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jerror.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jfdctflt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jfdctfst.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jfdctint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jidctflt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jidctfst.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jidctint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jidctred.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jquant1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jquant2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jutils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jmemmgr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jmemnobs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jaricom.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jcarith.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\jdarith.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\jsimd_x86_64.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\sharedlib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\mathu\Downloads\libjpeg-turbo\win\jpeg62-memsrcdst.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jfdctflt-sse-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jccolor-sse2-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jcgray-sse2-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jchuff-sse2-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jcsample-sse2-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jdcolor-sse2-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jdmerge-sse2-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jdsample-sse2-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jfdctfst-sse2-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jfdctint-sse2-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jidctflt-sse2-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jidctfst-sse2-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jidctint-sse2-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jidctred-sse2-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jquantf-sse2-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\mathu\Downloads\libjpeg-turbo\simd\$(Configuration)\jquanti-sse2-64.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{82078CB9-EB96-3EC8-B401-EAAE90D99D98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{8BF1B163-7C45-3868-8D50-9C9457F43AF0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

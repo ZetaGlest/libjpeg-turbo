@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\jcapimin.c" />
+    <ClCompile Include="..\jcapistd.c" />
+    <ClCompile Include="..\jccoefct.c" />
+    <ClCompile Include="..\jccolor.c" />
+    <ClCompile Include="..\jcdctmgr.c" />
+    <ClCompile Include="..\jchuff.c" />
+    <ClCompile Include="..\jcinit.c" />
+    <ClCompile Include="..\jcmainct.c" />
+    <ClCompile Include="..\jcmarker.c" />
+    <ClCompile Include="..\jcmaster.c" />
+    <ClCompile Include="..\jcomapi.c" />
+    <ClCompile Include="..\jcparam.c" />
+    <ClCompile Include="..\jcphuff.c" />
+    <ClCompile Include="..\jcprepct.c" />
+    <ClCompile Include="..\jcsample.c" />
+    <ClCompile Include="..\jctrans.c" />
+    <ClCompile Include="..\jdapimin.c" />
+    <ClCompile Include="..\jdapistd.c" />
+    <ClCompile Include="..\jdatadst.c" />
+    <ClCompile Include="..\jdatasrc.c" />
+    <ClCompile Include="..\jdcoefct.c" />
+    <ClCompile Include="..\jdcolor.c" />
+    <ClCompile Include="..\jddctmgr.c" />
+    <ClCompile Include="..\jdhuff.c" />
+    <ClCompile Include="..\jdinput.c" />
+    <ClCompile Include="..\jdmainct.c" />
+    <ClCompile Include="..\jdmarker.c" />
+    <ClCompile Include="..\jdmaster.c" />
+    <ClCompile Include="..\jdmerge.c" />
+    <ClCompile Include="..\jdphuff.c" />
+    <ClCompile Include="..\jdpostct.c" />
+    <ClCompile Include="..\jdsample.c" />
+    <ClCompile Include="..\jdtrans.c" />
+    <ClCompile Include="..\jerror.c" />
+    <ClCompile Include="..\jfdctflt.c" />
+    <ClCompile Include="..\jfdctfst.c" />
+    <ClCompile Include="..\jfdctint.c" />
+    <ClCompile Include="..\jidctflt.c" />
+    <ClCompile Include="..\jidctfst.c" />
+    <ClCompile Include="..\jidctint.c" />
+    <ClCompile Include="..\jidctred.c" />
+    <ClCompile Include="..\jquant1.c" />
+    <ClCompile Include="..\jquant2.c" />
+    <ClCompile Include="..\jutils.c" />
+    <ClCompile Include="..\jmemmgr.c" />
+    <ClCompile Include="..\jmemnobs.c" />
+    <ClCompile Include="..\jaricom.c" />
+    <ClCompile Include="..\jcarith.c" />
+    <ClCompile Include="..\jdarith.c" />
+    <ClCompile Include="..\simd\jsimd_i386.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{82078CB9-EB96-3EC8-B401-EAAE90D99D98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{8BF1B163-7C45-3868-8D50-9C9457F43AF0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="..\simd\Release\jccolor-sse2.obj" />
+    <Object Include="..\simd\Release\jcgray-sse2.obj" />
+    <Object Include="..\simd\Release\jchuff-sse2.obj" />
+    <Object Include="..\simd\Release\jcsample-sse2.obj" />
+    <Object Include="..\simd\Release\jdcolor-sse2.obj" />
+    <Object Include="..\simd\Release\jdmerge-sse2.obj" />
+    <Object Include="..\simd\Release\jdsample-sse2.obj" />
+    <Object Include="..\simd\Release\jfdctflt-sse.obj" />
+    <Object Include="..\simd\Release\jfdctfst-sse2.obj" />
+    <Object Include="..\simd\Release\jfdctint-sse2.obj" />
+    <Object Include="..\simd\Release\jidctflt-sse2.obj" />
+    <Object Include="..\simd\Release\jidctfst-sse2.obj" />
+    <Object Include="..\simd\Release\jidctint-sse2.obj" />
+    <Object Include="..\simd\Release\jidctred-sse2.obj" />
+    <Object Include="..\simd\Release\jquantf-sse2.obj" />
+    <Object Include="..\simd\Release\jquanti-sse2.obj" />
+    <Object Include="..\simd\Release\jccolor-mmx.obj" />
+    <Object Include="..\simd\Release\jcgray-mmx.obj" />
+    <Object Include="..\simd\Release\jcsample-mmx.obj" />
+    <Object Include="..\simd\Release\jdcolor-mmx.obj" />
+    <Object Include="..\simd\Release\jdmerge-mmx.obj" />
+    <Object Include="..\simd\Release\jdsample-mmx.obj" />
+    <Object Include="..\simd\Release\jfdctflt-3dn.obj" />
+    <Object Include="..\simd\Release\jfdctfst-mmx.obj" />
+    <Object Include="..\simd\Release\jfdctint-mmx.obj" />
+    <Object Include="..\simd\Release\jidctflt-3dn.obj" />
+    <Object Include="..\simd\Release\jidctflt-sse.obj" />
+    <Object Include="..\simd\Release\jidctfst-mmx.obj" />
+    <Object Include="..\simd\Release\jidctint-mmx.obj" />
+    <Object Include="..\simd\Release\jidctred-mmx.obj" />
+    <Object Include="..\simd\Release\jquant-mmx.obj" />
+    <Object Include="..\simd\Release\jsimdcpu.obj" />
+    <Object Include="..\simd\Release\jquant-sse.obj" />
+    <Object Include="..\simd\Release\jquant-3dn.obj" />
+  </ItemGroup>
+</Project>

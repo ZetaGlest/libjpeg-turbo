@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mathu\Downloads\libjpeg-turbo\CMakeFiles\7451eee92a8cb30894b680ab324c0b10\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{42749523-F72B-392F-8913-58BCBD5756C5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
